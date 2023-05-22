@@ -1,0 +1,13 @@
+div{
+  background-color: rgb(120, 205, 220);
+}
+body{
+  margin: 0;
+  padding: 0;
+}
+app-social
+{
+  float: right;
+  margin-top: 25px;
+}
+
